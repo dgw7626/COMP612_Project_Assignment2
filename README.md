@@ -1,6 +1,6 @@
 # COMP612 Project : Helicopter simulator
 
-<img src="https://github.com/justvinny/pass-vault-kotlin-android/blob/main/screenshots/create-login.png" width="100%" />
+<img src="https://github.com/dgw7626/COMP612_Project_Assignment2/blob/master/Project_Assignment2/Project_Assignment2/textures/helicopterSimulator.png" width="100%" />
 
 This is my final project for Assignment 2 in COMP612. I used FreeGLUT and OpenGL to implement a rescue scene involving
 a helicopter. The project is written in C, and most of the methods are implemented from scratch to utilize 3D math. 
