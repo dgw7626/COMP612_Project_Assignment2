@@ -42,15 +42,8 @@ graphics and started to understand the architecture of the fixed rendering pipel
 
 
 # Package Structure
-- **activities** — Only contains one activity, which is the main activity as we are following the
-  single activity architecture proposed by Google.
-- **adapter** — Contains all Adapter classes, primarily for RecyclerViews.
-- **database** — Anything related to Databases live here. As of the moment, only Room SQLite related
-  classes live here such as Entities, DAO, Main Room DB class. Repository pattern is being used to
-  make it easy to plugin different types of databases in the future.
-- **di** — Hilt dependency injection modules live here.
-- **fragments** — All the different Fragments (Screens) live here along with the popup Dialogs.
-- **models** — Non-database related classes live here.
-- **utilities** — Object classes that are the equivalent of static classes in Java live here. Also
-  includes constants.
-- **viewmodels** — All the architecture component ViewModels live here.
+- **Project_Assignment2** — a folder that contains visual studio solution, transform.c, source.c, etc. 
+- **Project_Executable_HighSpec** — a folder that contains executable application for the high spec models.
+- **Project_Executable_LowSpec** —  a folder that contains executable application for the low spec models.
+- **Logbook** — a logbook that records of project development progress.
+
