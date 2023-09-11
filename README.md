@@ -30,7 +30,7 @@ graphics and started to understand the architecture of the fixed rendering pipel
 - Particle system unstable reliability due to mutliple 3D based mesh.
 - Incorrect euler angle calculations for the helicopters oriented position.
 - Fixed with window resize issue and rendering issues
-- Camera distortion and flickering issues when coliding with skybox.f
+- Camera distortion and flickering issues when coliding with skybox.
 - Fixed with z plane so the double sides geometry will be invisible due to the matrix.
 - Implementation of the delta time for the constant frame rates and animation cycles.
 - Incorrect OBJ texure reader type.
